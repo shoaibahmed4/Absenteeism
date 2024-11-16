@@ -10,7 +10,9 @@ This notebook builds and evaluates a logistic regression model to predict absent
 
 # Key Features:
 Data preparation pipeline for absenteeism datasets.
+
 Logistic regression implementation with performance evaluation.
+
 Insights into workplace absenteeism patterns.
 
 # Requirements:
