@@ -27,22 +27,7 @@ This repository contains two Jupyter Notebooks focused on analyzing and predicti
 
 ## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone git clone https://github.com/shoaibahmed4/Absenteeism.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd Absenteeism
-   ```
-
-3. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the notebooks in the following order:
+1. Run the notebooks in the following order:
    - Open and execute **Absenteeism - Preprocessing.ipynb** to preprocess the data and save the scaler.
    - Then, execute **Absenteeism - Logistic Regression.ipynb** to train and evaluate the logistic regression model.
 
